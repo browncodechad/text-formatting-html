@@ -1,0 +1,1 @@
+Project 7 in HTML, a page that just shows different ways in which text in HTML can be formatted. I'm aware I used too many colors lol Instead of making it look professional and to the point, I was jus having fun and forging these concepts and syntax in stone so I dont mess them up as much later down the line when I work on huge codebases.
